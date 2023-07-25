@@ -97,3 +97,6 @@ while(True):
           print("제고가 소진되어 더 이상 주문을 받지 않습니다")
           break #while문 탈출
 
+
+
+print("hello world")
